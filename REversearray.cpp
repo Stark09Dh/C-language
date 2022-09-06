@@ -13,7 +13,6 @@ void reverse(int arr[],int size){
 }
 
 int main(){
-   cout << "Hello Eveyone " ;
     int arr[5]= {1,2,3,4,5};
     reverse(arr,5);
     for (int i = 0; i < 5; i++)
