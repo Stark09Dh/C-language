@@ -26,7 +26,7 @@ void printArray(int arr[],int size){
 
 using namespace std;
 int main(){
-    int arr[] = {4,3,2,1};
+    int arr[] = {10,9,11,15};
     
     selection_sort(arr,4);
     printArray(arr,4);
